@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/gsick/puppet-redis.svg?branch=0.0.5)](https://travis-ci.org/gsick/puppet-redis)
-[![Coverage Status](https://coveralls.io/repos/gsick/puppet-redis/badge.png?branch=0.0.5)](https://coveralls.io/r/gsick/puppet-redis?branch=0.0.5)
+[![Build Status](https://travis-ci.org/snemetz/puppet-redis.svg)](https://travis-ci.org/snemetz/puppet-redis)
+[![Coverage Status](https://coveralls.io/repos/snemetz/puppet-redis/badge.png)](https://coveralls.io/r/snemetz/puppet-redis)
 (95% with rspec-puppet)
 
 puppet-redis
