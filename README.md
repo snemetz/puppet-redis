@@ -1,8 +1,15 @@
+Master 
 [![Build Status](https://travis-ci.org/snemetz/puppet-redis.svg)](https://travis-ci.org/snemetz/puppet-redis)
 [![Coverage Status](https://coveralls.io/repos/snemetz/puppet-redis/badge.png)](https://coveralls.io/r/snemetz/puppet-redis)
 [![Code Quality](https://codeclimate.com/github/snemetz/puppet-redis.png)](https://codeclimate.com/github/snemetz/puppet-redis)
 [![Dependency Status](https://gemnasium.com/snemetz/puppet-redis.png)](http://gemnasium.com/snemetz/puppet-redis)
 [![Repo Analytics]()](http://bitdeli.com/snemetz/puppet-redis)
+
+Latest Release
+[![GitHub version](https://badge.fury.io/gh/snemetz%2Fpuppet-redis.svg)](http://badge.fury.io/gh/snemetz%2Fpuppet-redis)
+[![Build Status](https://travis-ci.org/snemetz/puppet-redis.svgi?branch=0.0.5)](https://travis-ci.org/snemetz/puppet-redis?branch=0.0.5)
+[![Coverage Status](https://coveralls.io/repos/snemetz/puppet-redis/badge.png?branch=0.0.5)](https://coveralls.io/r/snemetz/puppet-redis?branch=0.0.5)
+[![Dependency Status](https://gemnasium.com/snemetz/puppet-redis.png?branch=0.0.5)](http://gemnasium.com/snemetz/puppet-redis?branch=0.0.5)
 
 puppet-redis
 ============
