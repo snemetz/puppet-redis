@@ -1,10 +1,11 @@
 require 'rubygems'
 require 'puppetlabs_spec_helper/module_spec_helper'
 require 'coveralls'
-require 'codeclimate-test-reporter'
+# Coveralls broke when codeclimate was added
+#require 'codeclimate-test-reporter'
+#CodeClimate::TestReporter.start
 
 Coveralls.wear!
-CodeClimate::TestReporter.start
 
 RSpec.configure do |c|
   c.default_facts = {

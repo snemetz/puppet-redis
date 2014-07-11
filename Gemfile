@@ -8,5 +8,5 @@ group :test do
   gem 'rspec-puppet', '~> 1.0.1'
   gem 'puppetlabs_spec_helper', '~> 0.5.2'
   gem 'coveralls', :require => false
-  gem 'codeclimate-test-reporter', :require => nil
+  #gem 'codeclimate-test-reporter', :require => nil
 end
