@@ -1,7 +1,6 @@
 Master 
 [![Build Status](https://travis-ci.org/snemetz/puppet-redis.svg)](https://travis-ci.org/snemetz/puppet-redis)
-[![Coverage Status](https://coveralls.io/repos/snemetz/puppet-redis/badge.png)](https://coveralls.io/r/snemetz/puppet-redis)
-[//]: # "[![Code Quality](https://codeclimate.com/github/snemetz/puppet-redis.png)](https://codeclimate.com/github/snemetz/puppet-redis)"
+[![Coverage Status](https://coveralls.io/repos/snemetz/puppet-redis/badge.png)](https://coveralls.io/r/snemetz/puppet-redis) [//]: # "[![Code Quality](https://codeclimate.com/github/snemetz/puppet-redis.png)](https://codeclimate.com/github/snemetz/puppet-redis)"
 [![Dependency Status](https://gemnasium.com/snemetz/puppet-redis.png)](http://gemnasium.com/snemetz/puppet-redis)
 [![Repo Analytics]()](http://bitdeli.com/snemetz/puppet-redis)
 
